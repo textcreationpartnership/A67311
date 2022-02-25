@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A divine theater, or, A stage for Christians delivered in a sermon at Christ-Church in Oxford / by John Wall ...</title>
+            <author>Wall, John, 1588-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67311</idno>
+            <idno type="STC">Wing W468</idno>
+            <idno type="STC">ESTC R5262</idno>
+            <idno type="EEBO-CITATION">12634782</idno>
+            <idno type="OCLC">ocm 12634782</idno>
+            <idno type="VID">64849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 337:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A divine theater, or, A stage for Christians delivered in a sermon at Christ-Church in Oxford / by John Wall ...</title>
+                  <author>Wall, John, 1588-1666.</author>
+               </titleStmt>
+               <extent>[20], 84 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall, for Ri. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Luke III, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64849:1" rendition="simple:additions"/>
+            <pb facs="tcp:64849:1"/>
+            <p>A DIVINE THEATER, OR, A Stage for CHRISTIANS: Delivered In a Sermon at CHRIST-CHURCH in <hi>OXFORD.</hi>
+            </p>
+            <p>By JOHN WALL, Doctor in Divinity, and Praebendary of <hi>Chriſt-Church.</hi>
+            </p>
+            <q>Vid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te quàm ſuavis ſit Dominus. <bibl>Pſal. 34. 8.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by H. HALL, for RI: DAVIS. 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64849:2"/>
+            <pb facs="tcp:64849:2"/>
+            <p>
+               <hi>TO THE RIGHT REVEREND FATHER IN GOD,</hi> GEORGE Lord Biſhop of WORCESTER; <hi>My very much Honour'd LORD: Increaſe of Grace here, and Glory hereafter.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64849:3"/>
+            <pb facs="tcp:64849:3"/>
+            <head>THE EPISTLE DEDICATORY.</head>
+            <opener>
+               <salute>RIGHT REVEREND,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough it be true which <hi>SENECA</hi> writes, <hi>ipſi nobis ma<g ref="char:EOLhyphen"/>gnum Theatrum ſu<g ref="char:EOLhyphen"/>mus:</hi> that every good man
+<pb facs="tcp:64849:4"/> is a Theater to himſelfe; and hath ſomewhat with<g ref="char:EOLhyphen"/>in whereon he may reflect with comfort and delight: uſing that of <hi>Perſius</hi> in a ſenſe, <q>—Nec te quaeſiveris extra:</q> yet give me leave amongst diverſe glorious ſights of publicke rejoycings, to ex<g ref="char:EOLhyphen"/>hibit one text of holy Scri<g ref="char:EOLhyphen"/>pture to your view, the faireſt ſpectacle that ever was preſented upon the
+<pb facs="tcp:64849:4"/> Great Amphitheater of the round world: <hi>The Salvation of God, the Salvation of Chriſt;</hi> moſt worthy to be had <hi>in oculis</hi> and <hi>in oſculis</hi> (as my Authour ſpeakes) by all ſuch as kiſſe the Son, and deſire to embrace the ſweetneſſe of divine mer<g ref="char:EOLhyphen"/>cies.</p>
+            <p>
+               <q>Non hic Centauros, non Gorgonias, Harpyáſve</q>
+               <q>
+                  <pb facs="tcp:64849:5"/>Invenies, hominem pagina noſtra ſapit.</q> 
+               <hi>vel potiùs Deum:</hi> the man that is brought forth with an <hi>Ecce</hi> in the Go<g ref="char:EOLhyphen"/>ſpell <hi>[Behold the man] the Mediatour of God and man, the man Chriſt Ieſus.</hi> O let him be ever in your ſight, that hath made you ſo great a Light, and ſet the luſtre of Your Wiſdome
+<pb facs="tcp:64849:5"/> and Piety, as a Lan<g ref="char:EOLhyphen"/>thorne in a Watch-tower, or a candle on the houſe top for direction unto many. My ſong is with the Prophet <hi>DAVID,</hi> [Good lucke have you with Your Honour] that runnes after you, though you runne from it: Since it is a good ſay<g ref="char:EOLhyphen"/>ing, which <hi>Aenaeas Syl<g ref="char:EOLhyphen"/>vius</hi> left as an Axiome, <hi>Quòd Viri Dignita<g ref="char:EOLhyphen"/>tibus,
+<pb facs="tcp:64849:6"/> non Dignita<g ref="char:EOLhyphen"/>tes Viris, ſunt quae<g ref="char:EOLhyphen"/>rendi;</hi> that men are to be ſought out for praefer<g ref="char:EOLhyphen"/>ments, more then praefer<g ref="char:EOLhyphen"/>ments by men.</p>
+            <p>The Patriark <hi>Ioſeph</hi> beareth encreaſe in his name, and is likened to a flouriſhing bough, whoſe branches runne over the wall: may it be ſo with your Lordſhip, while the ſheaves of others bow to
+<pb facs="tcp:64849:6"/> yours; and men delight (as it were) to behold the Salvation of God in the purity of your Do<g ref="char:EOLhyphen"/>ctrine, and the bleſsed example of a good life, and holy Converſation. For that (as Saint <hi>Baſil</hi> writes in a Letter to his brother <hi>Nyſſen)</hi> is both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an honour<g ref="char:EOLhyphen"/>able poſſeſsion to thoſe which have it, and a delectable Viſion to all
+<pb facs="tcp:64849:7"/> that looke on it.</p>
+            <p>For my part, I muſt needs rejoyce, and claime a priviledge therein, when I conſider the bleſſed in<g ref="char:EOLhyphen"/>creaſe of ſo choyce a plant, whereof I had the firſt watering in this <hi>Vniverſity,</hi> when it was but in the budde; though now it beare much fruit, and may be compared to the Rod of <hi>Aaron</hi> which ſent forth ripe Almonds.</p>
+            <pb facs="tcp:64849:7"/>
+            <p>We read of <hi>Plato, quòd Socrati, illo di<g ref="char:EOLhyphen"/>ſcipulo, nihil conti<g ref="char:EOLhyphen"/>git foelicius: quòd A<g ref="char:EOLhyphen"/>thenis, illo cive, nihil glorioſius:</hi> That no<g ref="char:EOLhyphen"/>thing befell <hi>Socrates</hi> more fortunate then ſuch a Scholar, nothing be<g ref="char:EOLhyphen"/>fell <hi>Athens</hi> more glori<g ref="char:EOLhyphen"/>ous then ſuch a member: Let others make what Parallel they pleaſe, I thinke my ſelfe happy in
+<pb facs="tcp:64849:8"/> your Proſperity, and do wiſh you ſtrength anſwe<g ref="char:EOLhyphen"/>rable to your burthen, for the Honour of God, and Comfort of your Bre<g ref="char:EOLhyphen"/>thren; that your Graces may be multiplyed with your Honours; and the Spirit of God doubled u<g ref="char:EOLhyphen"/>pon you, as heretofore upon <hi>Elizaeus:</hi> that you may be as <hi>Napthali</hi> ſatiſ<g ref="char:EOLhyphen"/>fyed with favours; and with <hi>Aſher</hi> yeelding roy<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:64849:8"/> dainties, or pleaſures for a KING; that you may be as the belo<g ref="char:EOLhyphen"/>ved Diſciple, on whoſe breaſt JES<g ref="char:V">Ʋ</g>S leaned when he inſpired him with his Oracles; or the bleſsed Apoſtle, who was a Veſsell of Election <hi>ad portandum nomen co<g ref="char:EOLhyphen"/>ram Regibus:</hi> at leaſt in the words of <hi>Homer,</hi> 
+               <q>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q> Deare unto Princes, and
+<pb facs="tcp:64849:9"/> ſuch as are ſtiled God's upon earth: ſtudying all<g ref="char:EOLhyphen"/>wayes <hi>prodeſſe quibus datur praeeſſe,</hi> if <hi>S<hi rend="sup">t</hi> Ber<g ref="char:EOLhyphen"/>nard</hi> be worth the hea<g ref="char:EOLhyphen"/>ring.</p>
+            <p>More deſires I have of this kind, which I had ra<g ref="char:EOLhyphen"/>ther poure forth in ſecret, then expoſe openly.</p>
+            <q>Tu, quamcunque Deus tibi fortunaverit horam</q>
+            <q>Gratâ ſume manu.</q>
+            <pb facs="tcp:64849:9"/>
+            <p>And be pleaſed to re<g ref="char:EOLhyphen"/>ceive the humble tender of the fruit wee gather <hi>de ligno vitae</hi> (as Saint <hi>Bernard</hi> ſpeakes) from the tree of Life in the mid'ſt of Paradiſe; though herein I may ſeeme to bring Apples to <hi>Pomona,</hi> or as wee have it in the Epigram<g ref="char:EOLhyphen"/>matiſt <q>Hyblaeis apibus Corfica mel<g ref="char:EOLhyphen"/>la dare.</q>
+            </p>
+            <pb facs="tcp:64849:10"/>
+            <p>For I am not aſham'd to profeſse that I wept for joy when I firſt read your <hi>Coronation Ser<g ref="char:EOLhyphen"/>mon,</hi> to ſee how di<g ref="char:EOLhyphen"/>vinely it was perform'd, to the Honour of GOD, the delight of His M A. JESTY, and the Gra<g ref="char:EOLhyphen"/>cious ſettlement of Church and State in their Anci<g ref="char:EOLhyphen"/>ent, and Fundamentall Government and Splen<g ref="char:EOLhyphen"/>dour,
+<pb facs="tcp:64849:10"/> the continuance whereof I do heartily pray for, and reſt</p>
+            <closer>
+               <signed>Moſt humbly devoted to Your Lordſhip in true Service and Affection IOHN WALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64849:11"/>
+            <pb n="1" facs="tcp:64849:11"/>
+            <head>A <hi>DIVINE</hi> THEATER, OR, A Stage for Chriſtians.</head>
+            <epigraph>
+               <bibl>Luke. 3. 6.</bibl>
+               <q>All fleſh ſhall behold the Sal<g ref="char:EOLhyphen"/>vation of God.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg> Diamond cuts a Diamond, and we point one ſtone that we may part an other: The Word of God
+<pb n="2" facs="tcp:64849:12"/> is more pretious then any diamond, like unto the ſtones which <hi>David</hi> tooke out of the brook when he ſmote <hi>Goliah.</hi> If any deſire to convert theſe ſtones into bread for the nouriſhment of the Saints: or to prove himſelfe a workman not a<g ref="char:EOLhyphen"/>ſhamed, that can <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> divide the word of God aright, he muſt compare Scripture with Scripture and point one place (as it were) for the diſtribution and ex<g ref="char:EOLhyphen"/>plication of an other.</p>
+            <p>Hence it is that both the Apoſtle and the Evangeliſts
+<pb n="3" facs="tcp:64849:12"/> do often cite the Law and the Prophets: nay Chriſt himſelfe doth frequently urge the bookes of <hi>Moſes.</hi> And here Saint <hi>Luke</hi> draws his Goſpell from the mouth of <hi>Iſaiah:</hi> and makes it Pa<g ref="char:EOLhyphen"/>raphraſticall if not Identicall with his Prophecy; where it is ſaid: <hi>The voice of one crying in the wilderneſſe, make ſtreight the way of the Lord; every vally ſhall be fill'd, and every hill ſhall be made low, the crooked things ſhall be made ſtreight, and the rough ways plaine: the glory of the Lord ſhall be revealed, and all fleſh
+<pb n="4" facs="tcp:64849:13"/> ſhall ſee it.</hi> Or (as we read) in this preſent Scripture, <hi>All fleſh ſhall behold the Salvation of God.</hi>
+            </p>
+            <p>Theſe words are both Propheticall and Evangeli<g ref="char:EOLhyphen"/>call: recorded by <hi>Luke,</hi> but delivered by the Baptiſt in a Sermon: who was the laſt Prophet and firſt Evangeliſt (as the Fathers have obſer<g ref="char:EOLhyphen"/>ved) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith learned <hi>Cyrill</hi> of <hi>Ieruſalem</hi>) Uniting both Covenants, of Law and Goſpell, moſt emi<g ref="char:EOLhyphen"/>nently in his perſon. They ſeeme to be a declaration, or rather indeed a proclamation
+<pb n="5" facs="tcp:64849:13"/> of that true <hi>Meſſias</hi> ſent by God, and promiſed to our Fathers: wherein you have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Moſes</hi> ſpake of that flaming buſh) a Great ſight or a ſtrange viſi<g ref="char:EOLhyphen"/>on for the generality of men, and the generations of man<g ref="char:EOLhyphen"/>kind, to view and ſpeculate with comfort and delight, the glorious Majeſty of his Sacred Perſon whom the Angells of God deſire to be<g ref="char:EOLhyphen"/>hold continually. For ſaith the text, <hi>Omnis caro<g ref="char:punc">▪</g> All fleſh ſhall behold the Salvation of God.</hi>
+            </p>
+            <p>That which I ſhall pre<g ref="char:EOLhyphen"/>ſent
+<pb n="6" facs="tcp:64849:14"/> (as it were) from this ſcene, is,</p>
+            <p>Firſt, <hi>a Spectacle:</hi> and that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <hi>The Salva<g ref="char:EOLhyphen"/>tion of God.</hi>
+            </p>
+            <p>Secondly, <hi>a Manifeſtation of this Spectacle:</hi> and this is unto fleſh: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to <hi>All fleſh</hi> without limitation or exception.</p>
+            <p>We are all pertakers of this ſight, this Viſion, this Spe<g ref="char:EOLhyphen"/>ctacle, this benediction. <hi>All fleſh ſhall behold the Salvation of God.</hi>
+            </p>
+            <p>Indeed God is well known in <hi>Iury,</hi> and his name is great in <hi>Iſrael:</hi> but he ſhall be re<g ref="char:EOLhyphen"/>vealed
+<pb n="7" facs="tcp:64849:14"/> to the <hi>Gentiles,</hi> and ſhine as a ſtarre unto the na<g ref="char:EOLhyphen"/>tions: the <hi>Iſles</hi> ſhall come unto him, and the ſhips of <hi>Tarſiſh</hi> ſhall bring their chil<g ref="char:EOLhyphen"/>dren. All men, all ages, all Tribes, all Languages, ſhall come and ſee, and confeſſe, and magnifie the goodneſſe of the Lord, and the Salva<g ref="char:EOLhyphen"/>tion of our God, in the ten<g ref="char:EOLhyphen"/>der bowells of his Son <hi>Chriſt Ieſus.</hi>
+            </p>
+            <p>I have now clear'd the way of the text, like an other Baptiſt: and made the paths ſtreight (as it were) before you. If the feet of ſuch as
+<pb n="8" facs="tcp:64849:15"/> bring glad tidings, were beautifull upon the moun<g ref="char:EOLhyphen"/>taines; then doubtleſſe their lips ought to be full of grace, and their words as hony, that ſing of joy, and peace, and glory, and Salvation. The firſt thing <hi>I</hi> am here to mention, the <hi>Salvation of God:</hi> the God of our Salva<g ref="char:EOLhyphen"/>tion: and ſo I begin with the Spectacle which is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Salvation of God.</hi>
+            </p>
+            <p>That which <hi>Auſtin</hi> ſpake of love <hi>dulce verbum, dulcius factum.</hi> And that which the Oratour ſaid of peace. <hi>Dulce nomen, Salutare beneficium</hi> is
+<pb n="9" facs="tcp:64849:15"/> moſt agreeable with <hi>Salva<g ref="char:EOLhyphen"/>tion:</hi> the name of Salvation is ſweet and delectable; but the power thereof is hea<g ref="char:EOLhyphen"/>ling and comfortable; a pre<g ref="char:EOLhyphen"/>cious blame, a Soverainge antidote; a perfect cordiall; a divine amulet againſt the ſting of the Serpent, and the poyſon of death: The bundle of Camphire in the Spouſes breaſt; the cluſter of grapes in the vines of <hi>Engedi,</hi> that cheere the heart and rejoyce the Spirit of every Chriſtian. And therefore <hi>Iacobs</hi> ſong was <hi>expectavit O God I have waited for thy Salvation:</hi> And
+<pb n="10" facs="tcp:64849:16"/> 
+               <hi>David's</hi> prayer was <hi>viſita Domine—O Lord viſit us with thy Salvation:</hi> But when <hi>Si<g ref="char:EOLhyphen"/>meon</hi> beheld the Child, and tooke him in his armes, he was ready to depart with joy and brake forth into that cycnaean voice <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Now doſt thou let thy ſervant depart in peace according to thy word, for mine eyes have ſeen thy Salvation.</hi> What's that but Jeſus Chriſt the Son of God, the deſire of the Na<g ref="char:EOLhyphen"/>tions, <hi>the Sun of righteouſ<g ref="char:EOLhyphen"/>neſſe with healing under his wings?</hi> who is light, and glo<g ref="char:EOLhyphen"/>ry, and Salvation (as they are
+<pb n="11" facs="tcp:64849:16"/> put together in that Elogy of <hi>Simeon</hi>) the light of the <hi>Gentiles</hi> the glory of <hi>Iſrael,</hi> the Salvation of both, whilſt they are reconcil'd in one body; light in his doctrine; glory in his perſon; Salva<g ref="char:EOLhyphen"/>tion in the power and the ef<g ref="char:EOLhyphen"/>ficacy; the merit and the ex<g ref="char:EOLhyphen"/>cellency of his triumphant croſſe, and wonderfull re<g ref="char:EOLhyphen"/>demption. <hi>Salvation</hi> is his name, and Salvation is with him; Salvation is his worke, and Salvation is of him; therefore was he borne, and therefore came he into the world, that he might ſave
+<pb n="12" facs="tcp:64849:17"/> 
+               <hi>Iudah</hi> from their ſins and <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> from their tranſgreſſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>St <hi>Bernard</hi> obſerves in the ſtile of our <hi>Meſſias</hi> which is <hi>Jeſus Chriſtus Nazarenus</hi> that every word is full of com<g ref="char:EOLhyphen"/>fort: come to <hi>Ieſus;</hi> he gives you life, for that's a Saviour: come to <hi>Ieſus Chriſt,</hi> he gives you a Kingdome, for that's the anointed of God the Fa<g ref="char:EOLhyphen"/>ther: come to <hi>Ieſus Chriſt</hi> of <hi>Nazareth;</hi> he gives you a<g ref="char:EOLhyphen"/>boundant ſweetneſſe and pleaſures for ever more, for that ſignifies a garland of pleaſant flowers:</p>
+            <pb n="13" facs="tcp:64849:17"/>
+            <p>But when we have ſaid as much as we can, it will hard<g ref="char:EOLhyphen"/>ly come up to this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the text, for that is <hi>Great Salva<g ref="char:EOLhyphen"/>tion;</hi> the Salvation of God, Salvation in the abſtract. In<g ref="char:EOLhyphen"/>deed the name of God joyn<g ref="char:EOLhyphen"/>ed with other termes as an <hi>Hebraiſme</hi> doth make an <hi>Auxeſis,</hi> and enforce an Em<g ref="char:EOLhyphen"/>phaſis in divers places of ho<g ref="char:EOLhyphen"/>ly Scriptures. What doe you underſtand by the Moun<g ref="char:EOLhyphen"/>taines of God, but Great Mountaines<g ref="char:punc">▪</g> and what do you underſtand by the Ce<g ref="char:EOLhyphen"/>dars of God, but Great Ce<g ref="char:EOLhyphen"/>dars? and what do you un<g ref="char:EOLhyphen"/>derſtand
+<pb n="14" facs="tcp:64849:18"/> by the Sonnes of God, that tooke unto them daughters of men, but Great men, and tall Giants, of huge ſtrength, and vaſt demenſi<g ref="char:EOLhyphen"/>ons? In like manner the Sal<g ref="char:EOLhyphen"/>vation of God is a Great Sal<g ref="char:EOLhyphen"/>vation; a mighty Salvation; or, as it is termed by the Pro<g ref="char:EOLhyphen"/>phet <hi>Zacharie,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A horne of Salvation in the houſe of <hi>David:</hi> in the firſt chapter of my Evangeliſt. We read of him in the Pro<g ref="char:EOLhyphen"/>phet <hi>Habacuc;</hi> that he rides upon Horſes and <hi>that his cha<g ref="char:EOLhyphen"/>riots bring Salvation, Qua<g ref="char:EOLhyphen"/>driga Evangalii</hi> (as St <hi>Hie<g ref="char:EOLhyphen"/>rome</hi>
+               <pb n="15" facs="tcp:64849:18"/> ſpeakes) the glorious Chariots of the four Evange<g ref="char:EOLhyphen"/>liſts, that beare his name, ſpread his truth; declare his righteouſneſſe, and publiſh his Goſpell amongſt the na<g ref="char:EOLhyphen"/>tions. He brings it Origi<g ref="char:EOLhyphen"/>nally, they Organically; He authentically, they miniſte<g ref="char:EOLhyphen"/>rially; as ſervants and inſtru<g ref="char:EOLhyphen"/>ments, to him that is the rock and caſtle, the tower, and the fortreſſe, of our <hi>Salva<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>As for <hi>Moſes, Ioſhua, Sa<g ref="char:EOLhyphen"/>muel, Gedion</hi> and the like Pro<g ref="char:EOLhyphen"/>curatours of outward peace and temporall ſecurity, they
+<pb n="16" facs="tcp:64849:19"/> were men of renown and worthy of honour in their ſeverall Generations; as ſha<g ref="char:EOLhyphen"/>dowes and figures of Typi<g ref="char:EOLhyphen"/>call ſemblance: but not to be compar'd with the Man in the Text, whom God hath made ſo ſtrong for him<g ref="char:EOLhyphen"/>ſelfe: the hand of God; the arme of God; the Salvation of God; the power of God: or as he is ſtil'd elſewhere <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the head of all power and the firſt-born of every creature.</p>
+            <p>He that lookes into the bookes of the Heathen, will eaſily ſee the name of [<hi>Sal<g ref="char:EOLhyphen"/>vation</hi>]
+<pb n="17" facs="tcp:64849:19"/> is hardly found in all their writings. They have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but they cannot tell what to make of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: they have <hi>Salutem,</hi> but they can<g ref="char:EOLhyphen"/>not tell what to make of <hi>Sal<g ref="char:EOLhyphen"/>vation:</hi> name and thing are both alike unknown to them: whereas the Pſalmiſt aſcribes it to the Son of God for a twofold reaſon: The one, as he is <hi>Doctor Eccleſiae:</hi> The other, as he is <hi>Redemp<g ref="char:EOLhyphen"/>tor Eccleſiae:</hi> Firſt, as a <hi>Great Maſter</hi> that taught Salvation, and gave knowledge of it by his word, and doctrine; by his life, and converſation,
+<pb n="18" facs="tcp:64849:20"/> being the way, the truth, and the life: The way wherein you may walke; the truth wherein you may reſt; the life wherein you may re<g ref="char:EOLhyphen"/>joyce, with joy unſpeakable, and full of glory. Second<g ref="char:EOLhyphen"/>ly, <hi>As he is a Gracious Re<g ref="char:EOLhyphen"/>deemer,</hi> that hath wrought Salvation, and ſhall deliver his Church from the bon<g ref="char:EOLhyphen"/>dage of Satan: <hi>à culpâ, à ma<g ref="char:EOLhyphen"/>culâ, à poenâ,</hi> (as the School<g ref="char:EOLhyphen"/>men have diſtinguiſhed:) From ſin, and the ſtain there<g ref="char:EOLhyphen"/>of; from ſin, and the guilt thereof; from ſin, and the paine thereof, in the Great
+<pb n="19" facs="tcp:64849:20"/> Convention of the whole world, before the Tribunall of his juſtice. The Prophet <hi>David</hi> ſayth, he wrought it in the midſt of the earth; St <hi>Origen,</hi> that he wrought it a<g ref="char:EOLhyphen"/>gain in the midſt of the Aire; as well for the Prince there<g ref="char:EOLhyphen"/>of, as for the inhabitants of the world.</p>
+            <p>But this is contrary to the Doctrine of the Apoſtle; <hi>Chriſt being riſen dyeth not, in that he dyed, he dyed unto ſin; in that he liveth, he liveth unto God.</hi> And therefore St <hi>Ber<g ref="char:EOLhyphen"/>nard,</hi> is bold to ſay of him, <hi>impudenti mendacio crucifigit
+<pb n="20" facs="tcp:64849:21"/> Dominum gloriae, that he doth crucifie the Lord of glory, with the impudent ſcandall of haere<g ref="char:EOLhyphen"/>ticall blaſphemy.</hi> For my part I leave him to that receiv'd Character; <hi>Vbi benè, nemo melius; ubi malè, nemo pejus.</hi> Moſt certain it is, he wrought Salvation in the midſt of the earth, that all Nations may draw unto it, as lines aequidi<g ref="char:EOLhyphen"/>ſtant to their center. And that with incredible love and moſt invincible patience, amid'ſt the indignities, and the contumelies of reproach<g ref="char:EOLhyphen"/>full adverſaries, <hi>not with things corruptible as Silver, and gold,
+<pb n="21" facs="tcp:64849:21"/> but with the effuſion of his owne bloud, as a lamb undefiled, and without ſpot.</hi> The 1, and the 1, of <hi>Peter.</hi>
+            </p>
+            <p>For Salvation is a fruit, that doth not grow on every tree: <hi>fructus Vitis</hi> (as St <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> hath it) the fruit of the Vine; the bleeding Vine, that was not only bound to the wood of his croſſe, but cut, and pierced, and bruſed, and pruned, in that husban<g ref="char:EOLhyphen"/>dry of God, with the ſharp<g ref="char:EOLhyphen"/>eſt Amputations of his Fa<g ref="char:EOLhyphen"/>thers wrath: To the end that he might verifie, an ancient Propheſy, long ſince men<g ref="char:EOLhyphen"/>tioned,
+<pb n="22" facs="tcp:64849:22"/> by the Patriark <hi>Iacob: In Sanguine Uvae lavabit ſto<g ref="char:EOLhyphen"/>lam:</hi> he ſhall waſh his Coate in wine, and his Cloake in the bloud of grapes: The Coate of his fleſh, and the Cloake of humane ſub<g ref="char:EOLhyphen"/>ſtance, <hi>Geneſis.</hi> 40.</p>
+            <p>St <hi>Ambroſe</hi> ſpeaking of this Myſtery, will have him to be <hi>Vitis</hi> and <hi>Uva</hi> both together: A Vine as he hung upon the tree, and was faſtned to his Croſſe: A Grape in the O<g ref="char:EOLhyphen"/>pening of his bowells, and the exuberant ſweetneſſe of Divine grace: when he ſent forth the Wine of com<g ref="char:EOLhyphen"/>fort,
+<pb n="23" facs="tcp:64849:22"/> even bloud, and wa<g ref="char:EOLhyphen"/>ter, for the Redemption of his Church, and Sanctifica<g ref="char:EOLhyphen"/>tion of his brethren. Then was he the Author of Salva<g ref="char:EOLhyphen"/>tion, when he was made perfect, then and not till then (as we gather from the Scrip<g ref="char:EOLhyphen"/>ture.) <hi>Being made perfect, he became the Author of aeternall Salvation:</hi> in the 5, and the 6, of the Epiſtle to the <hi>He<g ref="char:EOLhyphen"/>brewes.</hi> How is that, by eaſie trials and gentle adventures? Surely no; it coſt more to redeem Soules, and therefore ſaith the Author <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>He was ſanctified
+<pb n="24" facs="tcp:64849:23"/> through afflictions, and he was perfected through afflictions, ſighes, and groanes, ſufferings, and afflictions,</hi> (in the 1, and the 10, of the ſame Epiſtle) His Croſſe, was his perfe<g ref="char:EOLhyphen"/>ction; and his Paſſion, was our conſummation; the per<g ref="char:EOLhyphen"/>fection, of his Aeconomy; and the conſummation, of our felicity; worthily ſtiled the Government upon his ſhoulders.</p>
+            <p>Whence is that of learned <hi>Auguſtine, Dormit Adam ut fiat Eva; &amp; moritur Christus ut fiat Eccleſia:</hi> The firſt <hi>A<g ref="char:EOLhyphen"/>dam</hi> ſleeps, that <hi>Eve</hi> may be
+<pb n="25" facs="tcp:64849:23"/> formed, and ſhaped: The ſecond <hi>Adam</hi> dyes, that his Church may be reform'd, and ſaved. For without bloud, there is no remiſſion; without a Sacrifice, there is no reconciliation. The bloud of Chriſt, is the redemption of man: the bloud of Chriſt, is the expiation of ſin: the bloud of Chriſt, is the ſatiſ<g ref="char:EOLhyphen"/>faction of God<g ref="char:punc">▪</g> the bloud of Chriſt, is the patefaction of heaven. Or to give it in the language of St <hi>Bernard, Sanguis crucifixi eſt clavis pa<g ref="char:EOLhyphen"/>radiſi:</hi> The bloud of <hi>Ieſus,</hi> who was Crucified by the
+<pb n="26" facs="tcp:64849:24"/> 
+               <hi>Iewes;</hi> is the only key that unlocks Heaven, and open<g ref="char:EOLhyphen"/>eth the gates, of that Coele<g ref="char:EOLhyphen"/>ſtiall paradiſe.</p>
+            <p>Why then ſhould any ſeeke unto the creature, be<g ref="char:EOLhyphen"/>fore the Creator; that Idoll, of the creature; that nothing, of the creature; like thoſe fooliſh <hi>Proci,</hi> amongſt the <hi>Graecians;</hi> who went to the hand-maid inſteed of the Miſtris? Is not this to deſert the Fountaine of Living wa<g ref="char:EOLhyphen"/>ter, and to dig Ciſterns, which hold no water? poore ſoules how are they decei<g ref="char:EOLhyphen"/>ved, that expect help, from
+<pb n="27" facs="tcp:64849:24"/> a broken ſtaffe, and leane wholy upon the reeds of <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> that may eaſily break, and run into their hands? Their faith is vaine; their hope is vaine: and we may beſpeak them in the words of a <hi>Heathen</hi>—<q>
+                  <hi>Una Salus miſeris nullam ſperare Salutem.</hi>
+               </q> Was <hi>Paul</hi> crucified for you, or were you baptized into the name of <hi>Paul?</hi> Nor <hi>Paul,</hi> nor <hi>Cephas;</hi> nor men, nor Angells, were able to eman<g ref="char:EOLhyphen"/>cipate us, without the pow<g ref="char:EOLhyphen"/>er
+<pb n="28" facs="tcp:64849:25"/> of God, and the ſweet Mediation of his Son <hi>Chriſt Ieſus.</hi> Conſider the Gene<g ref="char:EOLhyphen"/>rations of old, and looke in<g ref="char:EOLhyphen"/>to the Vanity of former Ages: What are the ſhrines, and the altars; the ſepul<g ref="char:EOLhyphen"/>chres, and the images, the molten images, the graven images, of all the Saints, and Martyrs, ſince the world be<g ref="char:EOLhyphen"/>gan, but ſtrange inventions, and ſtrong deluſions; which many run after to their owne deſtruction? <hi>Galba est non Getulicus:</hi> ſaith the Hiſto<g ref="char:EOLhyphen"/>rian, in a military ſenſe; And truly we may ſay, <hi>Chri<g ref="char:EOLhyphen"/>ſtus
+<pb n="29" facs="tcp:64849:25"/> &amp; non Moſes,</hi> in a Spiri<g ref="char:EOLhyphen"/>tuall ſenſe: It is Chriſt, and not <hi>Moſes:</hi> Chriſt, and not <hi>Aaron:</hi> How much leſſe the man of ſinne, which ſits in the Temple of God, and uſurps the chaire as his Vicar at Rome: can heale our greife, or Seale us a Pardon? It is not <hi>Peter,</hi> nor <hi>Paul:</hi> nor <hi>Iames,</hi> nor <hi>Iohn,</hi> muſt be our defence: but Chriſt alone, the rocke of our ſtrength, and the God of our Salvatio<g ref="char:cmbAbbrStroke">̄</g>, who was made all things, to all men: though in himſelfe conſtantly One, (without variableneſſe,
+<pb n="30" facs="tcp:64849:26"/> or ſhadow of change) The ſheep, and the ſheepaid; the root, and the flower; the doore, and the Sanctuary; the table, and the candleſtick; A lion, a lamb; a rock, a ſtone; <hi>The ſtone which the builders refuſed: and the ſtone which is made the Head of the Corner:</hi> He it is that is <hi>Deus ſoſpitalis,</hi> in a religious ſenſe: the great praeſerver of man<g ref="char:EOLhyphen"/>kind, by whom we looke for ſafety, and deliverance. And therefore as Chriſt ſaid to <hi>Zachaeus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> this day is Salvation come unto thee:</hi> ſo may I ſay to all that heare
+<pb n="31" facs="tcp:64849:26"/> me <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> this day is Sal<g ref="char:EOLhyphen"/>vation come unto you; <hi>the Salvation of God, the God of your Salvation.</hi> Come down <hi>Zachaeus,</hi> &amp; deſcend my bre<g ref="char:EOLhyphen"/>thren; come downe haſtily, and receive him joyfully, in the ſound of his Oracles, and the power of his Ordinan<g ref="char:EOLhyphen"/>ces, which are daily pub<g ref="char:EOLhyphen"/>liſhed in the mideſt of your Churches. Let <hi>Zachaeus</hi> come downe from his extortion, and let all depart from their tranſgreſſion: the proud, from inſolence, the wanton, from dalliance, the ſtrong from violence, and the bloud
+<pb n="32" facs="tcp:64849:27"/> thirſty from malice: that Chriſt may find a gracious welcome, and ſet up his Throne, in every heart, and in every conſcience. <hi>The heavens ſend forth a deiw, and the clouds drop righteouſneſſe:</hi> the earth opens, and brings Salvation; Salvation, and Iuſtice, come forth together: the word of truth, the breaſt<g ref="char:EOLhyphen"/>plate of righteouſneſſe; the ſword of the Spirit; the hel<g ref="char:EOLhyphen"/>met of Salvation: are given to us, as the armour of God, and ſent down amongſt us, as the Roman <hi>Ancilia,</hi> from the clouds above, <hi>ut inhabitet
+<pb n="33" facs="tcp:64849:27"/> gloria in terrâ noſtrâ, That we may triumph among the Saints, and glory may dwell in our land,</hi> the 85, of the Prophet <hi>David.</hi> How can you neglect ſo great Salvation, you that are partakers of a heavenly cal<g ref="char:EOLhyphen"/>ling, and do remember <hi>Ie<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> the high Prieſt of your Miniſtery, and profeſ<g ref="char:EOLhyphen"/>ſion? How can you neglect ſo great, ſo eminent, ſo pub<g ref="char:EOLhyphen"/>lick, ſo evident <hi>Salvation;</hi> in the view of the whole World, and the ſight of all the Nations? Since the word incarnate, that was made fleſh, is openly revea<g ref="char:EOLhyphen"/>led,
+<pb n="34" facs="tcp:64849:28"/> and made known to fleſh, to <hi>all fleſh,</hi> (as you have it, in the text) <hi>All fleſh ſhall behold the Salvation of God.</hi> And ſo I come to my <hi>Second Generall: From the Object, to the Evidence; from the Spectacle, to the Manifeſta<g ref="char:EOLhyphen"/>tion: All fleſh ſhall behold the Salvation of God.</hi>
+            </p>
+            <p>It is a quaint notion, which St <hi>Auguſtin</hi> hath in a Tract upon <hi>Iohn,</hi> that if you take the firſt letters, of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifie the foure cor<g ref="char:EOLhyphen"/>ners of the World; they make up the name of <hi>Adam:</hi>
+               <pb n="35" facs="tcp:64849:28"/> to ſhew the extent of his na<g ref="char:EOLhyphen"/>ture, and the generality of his perſon; and that <hi>as in Adam all dye, ſo in Chriſt they ſhall be made alive;</hi> all men, all fleſh, from all parts, and from all Coaſts, young and old, male and female, bond and free, <hi>Iew</hi> and <hi>Gentile: They ſhall all ſee the glory of the Lord, and behold the Sal<g ref="char:EOLhyphen"/>vation, of our God,</hi>
+            </p>
+            <p>If it be a pleaſant thing to looke upon the Sun, (as we gather from the words of <hi>Solomon</hi>) what is it to behold the Sun of Righteouſneſſe, and to ſee the face of God, in
+<pb n="36" facs="tcp:64849:29"/> his Son <hi>Chriſt Ieſus,</hi> who is the brightneſſe of his Glory, and the Character of his I<g ref="char:EOLhyphen"/>mage? It is noted of St <hi>Hie<g ref="char:EOLhyphen"/>rome</hi> that he made a three<g ref="char:EOLhyphen"/>fold Option, and deſired greatly to have ſeen, <hi>Paulum in Ore; Roman in flore; De<g ref="char:EOLhyphen"/>um in carne; Paul</hi> in the ex<g ref="char:EOLhyphen"/>erciſe of his Miniſtery, as he was Preaching; Rome in the Excellencie of her beauty as ſhe was flouriſhing; and Chriſt alive in the ſubſtance of our Nature, when he tooke fleſh, and rode (as it were) on the white cloud of Virgin purity. <hi>Bleſſed
+<pb n="37" facs="tcp:64849:29"/> are the eyes which ſee this<g ref="char:punc">▪</g>
+               </hi> ma<g ref="char:EOLhyphen"/>ny Prophets, and Righteous men, have deſired to ſee it, and could not, as Chriſt ſpake of himſelfe, in the Goſ<g ref="char:EOLhyphen"/>pell of St <hi>Matthew:</hi> and there<g ref="char:EOLhyphen"/>fore St <hi>Paul,</hi> brings it forth with a kind of Praeamble, when he ſaith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Great is the Myſterie of Godlineſſe: which is Chriſt manifeſt in the fleſh, juſtified in the Spirit, ſeen of Angells, Preached to the Gentiles, and received into Glory.</hi>
+            </p>
+            <p>As for the ſubſtance of the Divine nature it is moſt invi<g ref="char:EOLhyphen"/>ſible, not to be ſeen with eyes
+<pb n="38" facs="tcp:64849:30"/> of fleſh; being all Majeſty, all Glory; that ſuch as pry into the one, may be over<g ref="char:EOLhyphen"/>whelmed with the other. <hi>Moſes</hi> ſought it, and be<g ref="char:EOLhyphen"/>ſought God for it, but was never able to get a ſight of it: <hi>Vidit Angelum, vidit nubem,</hi> (as we have it in St <hi>Auguſtin</hi>) he ſaw an Angell, he ſaw a cloud; he ſaw fire, and he ſaw ſmoake, with the like Creatures, of a viſible nature: but did he ever ſee the glori<g ref="char:EOLhyphen"/>ous Majeſty of the living God? Surely no, he was faine to get into the cleft of the rock, before he might be
+<pb n="39" facs="tcp:64849:30"/> allowed to ſee his back parts: Yet was he ſo beloved of God, that he tooke him into the Mount, and talked with him, as a man ſpeaketh to his friend: but when he cry<g ref="char:EOLhyphen"/>ed, ſhew me thy glory, the Lord gave him a round an<g ref="char:EOLhyphen"/>ſwer, and told him plainly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Thou canſt not ſee my face,</hi> and a<g ref="char:EOLhyphen"/>gaine, <hi>my face ſhall not be ſeen. Exod:</hi> 33: Conſonant to that in the holy Goſpell; <hi>No man hath ſeen God at any time, Iohn</hi> the firſt, and the eight<g ref="char:EOLhyphen"/>teenth. Whence is that gold<g ref="char:EOLhyphen"/>den ſaying, of a Golden
+<pb n="40" facs="tcp:64849:31"/> ſpeaker, (I meane <hi>Cryſolo<g ref="char:EOLhyphen"/>gus) Quem non capit mundus, quomodo poteſt oculus?</hi> how can the ball of the eye receive him, whom the ball of the whole World is not able to comprehend? Yet ſince the inviſible things of God, are manifeſt by the creature, that which is inviſible in it ſelfe, may be viſible by an other: a Heavenly ſubſtance, by an earthly ſubſtance; a Spiri<g ref="char:EOLhyphen"/>tuall ſubſtance, by a corpo<g ref="char:EOLhyphen"/>rall ſubſtance: the Divinity, by the humanity; the God<g ref="char:EOLhyphen"/>head, by the man hood; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that Aeter<g ref="char:EOLhyphen"/>nall
+<pb n="41" facs="tcp:64849:31"/> power, and God-head mentioned by the Apoſtle, in the firſt to the <hi>Romans.</hi>
+            </p>
+            <p>Hence it is, that God ſent his only Sonne, borne of a woman, made under the Law, that he might viſit us, and we contemplate him; being fleſh, of our fleſh; and bone, of our bone. And be<g ref="char:EOLhyphen"/>cauſe the <hi>Gentiles</hi> made them Idols, in likeneſſe of men, out of a deſire to ſee what they did but vainly worſhip: He gave his word incarnate as a liveing image<g ref="char:punc">▪</g> that he might ſteale the ho<g ref="char:EOLhyphen"/>nour to himſelfe, and draw
+<pb n="42" facs="tcp:64849:32"/> it privily away, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as St <hi>Chryſoſtom</hi> hath obſerved) not in the forme of a <hi>Cherub,</hi> or by the conveiance of any Coeleſtiall body, taken from above, and brought along with him (as the <hi>Valentini<g ref="char:EOLhyphen"/>ans</hi> doe imagine) but in the clothing of our humanity; and that as you have in the words of <hi>Nyſſen</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by the rare foecundity of a chaſte Virgin, whom the Prophet <hi>Ezekiel</hi> hath com<g ref="char:EOLhyphen"/>pared to the gate of the San<g ref="char:EOLhyphen"/>ctuary, <hi>that was never open; becauſe the Lord God of</hi> Iſrael <hi>did enter by it,</hi> Ezekel, 44.
+<pb n="43" facs="tcp:64849:32"/> Of the word, he became fleſh; of God, man; of the Creatour, a creature; of Lord and Maſter, a ſervant and miniſter: higher then Angels, if we looke unto the glory of his Aeternall genera<g ref="char:EOLhyphen"/>tion; but lower then An<g ref="char:EOLhyphen"/>gels, if we conſider the frail<g ref="char:EOLhyphen"/>ty of his temporall concep<g ref="char:EOLhyphen"/>tion: when he left the bo<g ref="char:EOLhyphen"/>ſome of his Father, that he might Sanctifie the Wombe of his Mother, and come forth of thoſe chambers, Ho<g ref="char:EOLhyphen"/>ly, and undefiled: with the tender bowels of mercy, and loving kindneſſe, in a
+<pb n="44" facs="tcp:64849:33"/> true ſenſe, and brotherly feeling of our miſeries, and imperfections: <hi>Natus mira<g ref="char:EOLhyphen"/>biliter ſine peccato pro damna<g ref="char:EOLhyphen"/>tis miſerabiliter cum peccato;</hi> (in the language of St <hi>Auſtin</hi>) borne ſtrangly without ſin, for ſuch as were to periſh la<g ref="char:EOLhyphen"/>mentably in ſinne; the guilt of ſin, and the confuſion of their iniquities.</p>
+            <p>Theſe, <hi>are the kiſſes of the mouth,</hi> which the <hi>Spouſe</hi> de<g ref="char:EOLhyphen"/>ſired, in the bleſſed conjun<g ref="char:EOLhyphen"/>ction of both natures, for the infuſion of grace, and the ſweet inſpiration of heaven<g ref="char:EOLhyphen"/>ly comfort: <hi>Oſculetur me oſ<g ref="char:EOLhyphen"/>culo
+<pb n="45" facs="tcp:64849:33"/> oris ſui: Let him kiſſe me with the kiſſes of his mouth,</hi> the firſt, and the firſt, of the ſong of <hi>Solomon:</hi> the deare Kiſſes of his Love, and of his Mercy; of his favour, and of his bounty; derived to us from that admirable di<g ref="char:EOLhyphen"/>ſpenſation, of the incarnate Deity. The Fathers, of the Greek Church, call it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or more plain<g ref="char:EOLhyphen"/>ly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a voluntary condeſcention, of the Divine excellence; when God de<g ref="char:EOLhyphen"/>ſcends, from the height of Majeſtie, that he may be in<g ref="char:EOLhyphen"/>corporate with man; and
+<pb n="46" facs="tcp:64849:34"/> man aſcends, from the depth of miſerie, that he may be joyned with God, and aſſu<g ref="char:EOLhyphen"/>med to him, in the unity of his perſon.</p>
+            <p>For ſaith <hi>Auſtin; Aſſump<g ref="char:EOLhyphen"/>ſit humanitatem non amaſit di<g ref="char:EOLhyphen"/>vinitatem:</hi> he kept his Divi<g ref="char:EOLhyphen"/>nity, though he tooke our humanity; this was advan<g ref="char:EOLhyphen"/>ced, that was not prejudi<g ref="char:EOLhyphen"/>ced; there came Honour to the one, without Detriment to the other; whil'ſt he proves the life of men, and yet remaines the head of An<g ref="char:EOLhyphen"/>gels.</p>
+            <p>There are many praeviſi<g ref="char:EOLhyphen"/>ons
+<pb n="47" facs="tcp:64849:34"/> of this myſtery, in the holy Patriarkes, and not a few praedictions, in the O<g ref="char:EOLhyphen"/>racles of the Prophets. The Tabernacle of <hi>Moſes,</hi> was a direct figure of it; of this Tabernacle, this building; the Tabernacle of God, the Tabernacle of his fleſh: The <hi>Iſraelites</hi> ſaw his glory, in the former; we ſaw it in the lat<g ref="char:EOLhyphen"/>ter. <hi>Vidimus gloriam ejus,</hi> (ſaith <hi>Iohn</hi> the Evangeliſt) We have ſeen the glory thereof, it hath opened our eyes, claryfied our hearts; enlightned our minds; purified our conſci<g ref="char:EOLhyphen"/>encies:
+<pb n="48" facs="tcp:64849:35"/> 
+               <hi>Vidimus glorium ejus,</hi> We have ſeen the glory there<g ref="char:EOLhyphen"/>of, <hi>As the only begotten Son of God; full of Grace and of Truth.</hi> For indeed, there muſt needs be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Nyſſen</hi> ſpeakes) a true, reall, perfect, ſubſtantiall building of the Tabernacle; where there is Chriſt in the fleſh, and God with us; a true Saviour, a peculiar <hi>Im<g ref="char:EOLhyphen"/>manuel,</hi> who ſhall not only renew, and Sanctifie; but repaire, and Glorifie the de<g ref="char:EOLhyphen"/>cayed Tabernacles of our mortall bodyes, by the Vir<g ref="char:EOLhyphen"/>tue of his Spirit, and the
+<pb n="49" facs="tcp:64849:35"/> Omnipotency of his God<g ref="char:EOLhyphen"/>head.</p>
+            <p>Hence it is, that we are enabled to ſee God; and thus it is, we are ſaid to be<g ref="char:EOLhyphen"/>hold the Lord of glory: though in himſelfe he be un<g ref="char:EOLhyphen"/>diſcernable, and dwell in light that is unapproachable. He tooke that from us, and preſerves that in us, which makes him known to us, and beloved of us: and therefore, ſince he comes in the vaile of fleſh, and ſeems to be co<g ref="char:EOLhyphen"/>vered, as with the mantle of <hi>Elias,</hi> we have boldneſſe to draw nere, and looke up<g ref="char:EOLhyphen"/>on
+<pb n="50" facs="tcp:64849:36"/> him, as the Sun in a cloud, or a candle in a Lanthorne, tempered, and qualified, to the weakneſſe of our ſight, and the infirmities of our na<g ref="char:EOLhyphen"/>ture. Which makes the <hi>Spouſe,</hi> breake forth into thoſe myſticall expreſſions, <hi>My beloved ſtand's behind the wall; he looketh forth of the window, and ſhews himſelfe by the latteſſe;</hi> the ſecond, and the ninth of <hi>Solomon.</hi> What's that but the wall of humane fleſh, the window of hu<g ref="char:EOLhyphen"/>mane ſenſe, and the latteſſe of humane affections? (as St <hi>Bernard</hi> interprets) where<g ref="char:EOLhyphen"/>by
+<pb n="51" facs="tcp:64849:36"/> he lookes upon us, and we looke upon him, with Spirituall glances, and hea<g ref="char:EOLhyphen"/>venly dartings of ſaving knowledg, and mutuall complacence, crying (as it were, in the words of <hi>Ia<g ref="char:EOLhyphen"/>cob) I have ſeene the face of God, and my life is preſerved:</hi> at what time he ſet a marke on the place, and named it <hi>Peniel,</hi> (which doth ſignify the face of God,) for a token, of inward gladneſſe, and e<g ref="char:EOLhyphen"/>verlaſting remembrance: <hi>Gen: 32. Quanta bonitas quanta dilectio, quanta humili<g ref="char:EOLhyphen"/>tas, quanta dignatio</hi> (as St
+<pb n="52" facs="tcp:64849:37"/> 
+               <hi>Bernard</hi>) O the bountyful<g ref="char:EOLhyphen"/>neſſe, and love of God to man! who is able to con<g ref="char:EOLhyphen"/>ceive the length, and the bredth; the height, and the depth of his infinit kindneſs, when he did not only, <hi>bow the Heavens, and come downe,</hi> but empty himſelfe, and goe back like the Sun in the Dial of <hi>Ahaz,</hi> many degrees, that he might give us a ſigne, from the conception of a Vir<g ref="char:EOLhyphen"/>gin, and reſtore us to life, by the power of his Salva<g ref="char:EOLhyphen"/>tion?</p>
+            <p>There are many reſults of Practicall Holineſſe, from
+<pb n="53" facs="tcp:64849:37"/> ſo great Philanthropie, ſo great humanity; which the Apoſtle ſays, hath appeared to us: Even Praiſe, and ho<g ref="char:EOLhyphen"/>nour, and Thankſgiving, and Obedience; with love unfeigned, from a pure heart, and a good conſcience. I wiſh it may be an incentive to them all; but cheifly un<g ref="char:EOLhyphen"/>to love, the bond of perfect<g ref="char:EOLhyphen"/>neſſe and the moſt imitable quality of the Divine nature. That as God loved us, ſo ye love one another; that ye de<g ref="char:EOLhyphen"/>ſcend to the infirmities of your Brethren, and take up their burthens; that ye vi<g ref="char:EOLhyphen"/>ſite
+<pb n="54" facs="tcp:64849:38"/> the Churches of the Saints, and releive their wants: the rather indeed, becauſe we are but fleſh, weake and fraile, paſſible and mortall, or (to ſpeake in the language of St <hi>Auguſtine) Sperma foetidum, vas ſterco<g ref="char:EOLhyphen"/>rum, eſca vermium:</hi> a lump of clay, the ſpawne of <hi>Adam,</hi> a ſeed of evill doers, and veſſells of corruption: Yet ſuch as God hath reſpect un<g ref="char:EOLhyphen"/>to, in the Diſpenſation of his Grace, and the Minifeſtation of his Glory. For it is not ſaid, every Soul, or every Spi<g ref="char:EOLhyphen"/>rit; but <hi>All Fleſh ſhall behold
+<pb n="55" facs="tcp:64849:38"/> the Salvation of God:</hi> where the part is taken for the whole, and the worſe for the better, to ſhew that God doth not forſake man, in the vileſt eſtate of a miſerable condition; but conſiders him as <hi>Fleſh,</hi> and viſits him in his bloud, that he may raiſe, and quicken him with the <hi>Quatridian Lazarus;</hi> though dead, and buried, in the grave of ſinne; and the pollution of his iniqui<g ref="char:EOLhyphen"/>ties.</p>
+            <p>For, <hi>He came to ſave that was lost,</hi> as he tells you in the eightenth, of St <hi>Mathew;
+<pb n="56" facs="tcp:64849:39"/> Not to cure the whole, but the ſick; not to call the righteous, but ſinners to repentance.</hi> Pub<g ref="char:EOLhyphen"/>licans, and Harlots; Theives, and Malefactors; Blaſphe<g ref="char:EOLhyphen"/>mers, and Hypocrites, Ex<g ref="char:EOLhyphen"/>tortioners, and Oppreſſours: a Generation of Vipers, a brood of Serpents, (as we ga<g ref="char:EOLhyphen"/>ther from many places in the Goſpell) to ſeeke the loſt groat, to find the loſt ſheep, to reclame the loſt child, to reduce the loſt Son, to exhi<g ref="char:EOLhyphen"/>lerate, and delight the glori<g ref="char:EOLhyphen"/>ous Angels with notice of their converſion; ſince there is joy in heaven, with the
+<pb n="57" facs="tcp:64849:39"/> Angels of God, for one Sin<g ref="char:EOLhyphen"/>ner that repenteth. And therefore it is noted of the <hi>Spouſe</hi> that ſhe was <hi>nigra &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormoſa,</hi> beloved at the worſt; and comely when ſhe was black: by nature black, by grace comely: black with<g ref="char:EOLhyphen"/>out, comely within; black in her ſelfe, comely in him that is more beautifull, then all the ſons of men; the joy of the whole earth, and the glory of heaven: So that we may hope beyond hope, and not be out of comfort, in our deformity; crying with the Poet, in a Divine ſenſe—</p>
+            <q>
+               <pb n="58" facs="tcp:64849:40"/>Alba liguſira cadunt vacci<g ref="char:EOLhyphen"/>nia nigra leguntur.</q>
+            <p>As for the Text, where it mentions [<hi>all Fleſh</hi>] with a note of Univerſality, in a larger ſenſe, it muſt not be underſtood of Numericall perſons, but of ſeverall con<g ref="char:EOLhyphen"/>ditions by way of diſtribu<g ref="char:EOLhyphen"/>tion, <hi>in Genera Singulorum</hi> (as the Schoolemen inter<g ref="char:EOLhyphen"/>pret) for though God be in the mid'ſt of us, yet doth he not ſanctifie all particulars (as we may ſee by that De<g ref="char:EOLhyphen"/>vill <hi>Iudas.</hi>) The Sun may
+<pb n="59" facs="tcp:64849:40"/> riſe, and ſhine gloriouſly, though not diſcern'd by ſuch as are blind, and ſhut up in a dungeon: in like manner, light may come into the world, and not be compre<g ref="char:EOLhyphen"/>hended by the darkneſſe thereof; or known to thoſe whom the God of this world hath blinded. <hi>Purga oculum ut videre poſſis lucem oculorum</hi> (ſaith learned <hi>Auguſtine</hi>) clenſe thine eyes, and purifie thy heart, that ſo thou mai'ſt behold the light of thine eyes, and the joy of thy heart; <hi>for none ſhall ſee God but the pure in heart.</hi> Therefore
+<pb n="60" facs="tcp:64849:41"/> Chriſt is ſaid to redeem the Saints out of every Tribe, and country, and language, and Nation: where the par<g ref="char:EOLhyphen"/>ticle is moſt emphaticall, and worthy obſervation, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not every Tribe, but <hi>Out of every Tribe, and Country, and Language and Nation</hi> (as we are taught, by St <hi>Iohn,</hi> in the fifth chap: of the <hi>Revelat:) Iews,</hi> and <hi>Graecians, Cretes,</hi> and <hi>Arabians;</hi> they ſhall all heare, they ſhall all ſee the Wonders of God, and the Power of his <hi>Salvation.</hi> They which liv'd before, with Corporall eyes, they which come after with
+<pb n="61" facs="tcp:64849:41"/> Spirituall eyes; the eyes of faith, and knowledge, and a right underſtanding of Hea<g ref="char:EOLhyphen"/>venly Myſteries. They ſhall beleive, and ſee; they ſhall taſt, and ſee by true experi<g ref="char:EOLhyphen"/>ence, and ſure evidence, how good the Lord is in the remiſ<g ref="char:EOLhyphen"/>ſion of ſin, and the free do<g ref="char:EOLhyphen"/>nation of aeternall Righte<g ref="char:EOLhyphen"/>ouſneſſe: <hi>For the Promiſe is made to us, and to our Chil<g ref="char:EOLhyphen"/>dren, and to ſuch as are afar off, and to as many as the Lord our God ſhall call. Acts:</hi> the 2. and the 39.</p>
+            <p>This Doctrine is moſt a<g ref="char:EOLhyphen"/>greeable with the meaning
+<pb n="62" facs="tcp:64849:42"/> of the Baptiſt, who was a praecurſor to our Lord and Saviour in his firſt coming: though ſome extend the words to his latter coming, when Chriſt ſhall be mani<g ref="char:EOLhyphen"/>feſt to us, and we ſhall be ma<g ref="char:EOLhyphen"/>nifeſt to him, before the Tri<g ref="char:EOLhyphen"/>bunall of his Juſtice. But I wave that as ſomewhat in<g ref="char:EOLhyphen"/>direct, and deſire much, you would Suck the milke of Divine truth, from the breaſts of conſolation, that are open to you by the reve<g ref="char:EOLhyphen"/>lation of <hi>Chriſt Ieſus,</hi> and the ſweet influence of his Evan<g ref="char:EOLhyphen"/>gelicall mercies; when he
+<pb n="63" facs="tcp:64849:42"/> came as raine into a fleec of wooll, and did firſt viſit us with his Corporall praeſence. <hi>Gabrill</hi> came, the Angels ſang, the Babe ſprang, the Aire rang, and a fountain of Oyle brake forth in the midſt of the earth as a ſigne to all the Nations; a miraculous ſigne of flowing bounties, and healing mercies. It is not to be imagined that any man now living, ſhould have ſeen him with bodily eyes, (unleſſe it were <hi>Iohan<g ref="char:EOLhyphen"/>nes de temporibus</hi> as ſome con<g ref="char:EOLhyphen"/>ceit) that was taken up to Heaven in a cloud above ſix<g ref="char:EOLhyphen"/>teen
+<pb n="64" facs="tcp:64849:43"/> hundred yeares agoe. But if we conſider the pow<g ref="char:EOLhyphen"/>er of his Salvation, that came forth of <hi>Sion</hi> in perfect beau<g ref="char:EOLhyphen"/>ty; the whole earth is full of it, and we of this Land have found it, above other Nations in a ſingular way, and peculiar manner: <hi>Sicut audivimus, ſic vidimus,</hi> As we have heard, ſo we have ſeen, in the City of our God, in the City of our King: Salvation Corporall, Salva<g ref="char:EOLhyphen"/>tion Spirituall; the one of the Soul from Haereſy, and di<g ref="char:EOLhyphen"/>ſtraction; the other of the Body from Calamity, and
+<pb n="65" facs="tcp:64849:43"/> deſtruction: while there are no tumults, no fightings, no violence, no complaining in our ſtreets. <hi>Bleſſed are the people that are in ſuch a caſe, bleſſed are the people that have the Lord for their God.</hi> Is it not a precious thing, to ſee Holineſſe, and order meet together; Doctrine, and Diſ<g ref="char:EOLhyphen"/>cipline kiſſe each other Thanks be to God we enter the Sanctuarie, and go to his Altars; heare the word, and partake of his Myſteries, without the diſturbance of Lunatick men, and Fanatick ſpirits, <hi>That Iſrael may rejoyce
+<pb n="66" facs="tcp:64849:44"/> in him that made him, and the Children of Sion be joyfull in their King.</hi> There was a time when the Heavens were ſhut, and the Seales of grace (in a manner) ſeal'd up by a marveilous reſtraint of Sacramentall Diſpenſa<g ref="char:EOLhyphen"/>tions; but now we ſee them open again, with that bleſ<g ref="char:EOLhyphen"/>ſed Saint, and Proto Martyr <hi>Stephen,</hi> when he be held the Son of man at the right hand of God: having a great light round about as the Apoſtle had at his converſion; the light of joy, and comfort; ſafety, and deliverance.</p>
+            <pb n="67" facs="tcp:64849:44"/>
+            <p>When the wiſe men came to <hi>Ieruſalem,</hi> they cryed out <hi>Vidimus ſtellam ejus, We have ſeen his ſtar in the Eaſt, and are come to worſhip him:</hi> in like manner, we that are inhabi<g ref="char:EOLhyphen"/>tants of this Myſticall <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> may dry out, <hi>Vidimus ſtellam ejus,</hi> We have ſeen his ſtarre, and that as it were in the <hi>Eaſt,</hi> from the Orientall praeſence of our riſing Sun, and the ſweet reduction of our Gracious Soveragin: The ſtarre of his Word, the influ<g ref="char:EOLhyphen"/>ence of his Grace, the light of his Truth, the motion of his Providence, the working of
+<pb n="68" facs="tcp:64849:45"/> his Power, the power of his Doctrine, the brightneſſe of his Goſpell, and the glory of his Kingdome, that Evange<g ref="char:EOLhyphen"/>licall Kingdome, whereby he doth rule in the heart of every Chriſtian. O that we might as truly ſay, we are come to worſhip, and to ſerve him with Singleneſſe of heart, and Purity of mind, in the beauty of Holineſle, and the fervency of our Spi<g ref="char:EOLhyphen"/>rit! But I feare we come ſhort of thoſe performances, and do not preſent him, as the men of the Eaſt are ſaid to have done, with Gold,
+<pb n="69" facs="tcp:64849:45"/> Myrrh, and Frankinſenſe: the Gold of Faith, and Hea<g ref="char:EOLhyphen"/>venly wiſdome; the Myrrh of Repentance, and bitter Contrition; the Frankin<g ref="char:EOLhyphen"/>ſenſe of Prayer, and hearty Devotion.</p>
+            <p>Where is the Honour, and the Worſhip; the Duty, and the Service; the Labour, and the Patience; the Tribute, and the Obedience we owe to the Power of ſo Great a Majeſtie? Inſteed of all theſe we do often meet with con<g ref="char:EOLhyphen"/>tempt, and infidelity; pro<g ref="char:EOLhyphen"/>faneneſſe, and impiety: whil'ſt ſome deſpiſe; others
+<pb n="70" facs="tcp:64849:46"/> deride the Grace, which brings Salvation with it: placeing themſelves, (as the Prophet hath it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Chaire of pride, or the Seate of the ſcornfull: not unlike unto thoſe, <hi>VVho laughed, and ſaid, hail King of the Jewes, if thou be the Son of God come down from the croſſe: be ſaved others, himſelfe he can<g ref="char:EOLhyphen"/>not ſave.</hi> I tremble to re<g ref="char:EOLhyphen"/>count, and am afraid to men<g ref="char:EOLhyphen"/>tion that Execrable ſpeech, which a Pope uſed to one of his Cardinalls, when he ſaid <hi>quantum nobis profuit de Chriſto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abula?</hi> Curſed <hi>A<g ref="char:EOLhyphen"/>theiſts,</hi>
+               <pb n="71" facs="tcp:64849:46"/> and <hi>Prodigy</hi> of men—<q>Dic quâ Tyſiphone, quibus exagitare colub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is?</q> What aileth thee to Blaſ<g ref="char:EOLhyphen"/>pheme the Lord of Glory? haſt thou more Devills in thy heart, then were caſt out of <hi>Mary?</hi> God forbid any Chriſtian ſhould ever har<g ref="char:EOLhyphen"/>bour ſo vile a thought, and yet the Apoſtle ſayes, there ſhall be mockers in the laſt Dayes, denying the Lord that bought them: we alſo find by experience that ma<g ref="char:EOLhyphen"/>ny
+<pb n="72" facs="tcp:64849:47"/> live as if they tooke the Myſtery of Godlyneſſe, for a Hiſtory of deceivable<g ref="char:EOLhyphen"/>neſſe; and held the Goſpell of the Kingdome little better than a Golden Le<g ref="char:EOLhyphen"/>gend.</p>
+            <p>But let theſe Men know, there is an (<hi>auferatur impius</hi>) for the wicked; and though God be merciful to the pe<g ref="char:EOLhyphen"/>nitent Soul, they which pro<g ref="char:EOLhyphen"/>voke the eyes of his Glory ſhall never ſee it, in the 26<hi rend="sup">th</hi> Chapter of the Prophet <hi>Iſai<g ref="char:EOLhyphen"/>ah.</hi> Oh how ſuddenly do they conſume, periſh, and come to a fearful end (as the
+<pb n="73" facs="tcp:64849:47"/> Pſalmiſt ſpeaks with condo<g ref="char:EOLhyphen"/>ling admiration.)</p>
+            <p>Amongſt divers inſtances of Divine Juſtice, that of <hi>Alexander</hi> the ſixth is very fa<g ref="char:EOLhyphen"/>mous, who invited his Car<g ref="char:EOLhyphen"/>dinals to a great Feaſt, with an intent to poyſon them for their means; and being ve<g ref="char:EOLhyphen"/>ry frolick, dyed lamentably in the midſt of his joviality, of a poyſon'd cup which he provided for others; by the Providentiall miſtake of his owne ſervants: (as you have it recorded in his life by <hi>Onuphrius</hi>)</p>
+            <q>
+               <pb n="74" facs="tcp:64849:48"/>—<hi>Nec enim lex juſtior ulla eſt</hi>
+            </q>
+            <q>Quàm necis artifices arte perire ſuâ.</q>
+            <p>Beware then my deare brethren of profane Scur<g ref="char:EOLhyphen"/>rility, and miſchievous pra<g ref="char:EOLhyphen"/>ctiſes, whereby God is diſ<g ref="char:EOLhyphen"/>honour'd, or man inju<g ref="char:EOLunhyphen"/>red, <hi>That you turne not the Grace into wantonneſſe, which teaches us to deny un<g ref="char:EOLhyphen"/>godlineſſe; and make that an occaſion of falling which is given for a bleſſing.</hi> The rather indeed be<g ref="char:EOLhyphen"/>cauſe
+<pb n="75" facs="tcp:64849:48"/> St <hi>Paul</hi> will not ſo much as allow of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the fifth Chapter of his Epiſtle to the <hi>Epheſi<g ref="char:EOLhyphen"/>ans</hi> when men delight in that which is not comely, as ſpots, &amp; blots, in the feaſts of Charity: and care not to make themſelves ridiculous Morio's, ſo they may o<g ref="char:EOLhyphen"/>thers merry, with the of<g ref="char:EOLhyphen"/>fence, and ſcandall of their Brethren: though in the Sanctuary of God, and the very mid'ſt of his moſt Holy Temple, where they ſhould put off the ſhoes, (as it were) of foule reproach, and not
+<pb n="76" facs="tcp:64849:49"/> defile it with unſavoury pollutions; as they may learne from a meer <hi>Hea<g ref="char:EOLhyphen"/>then</hi>—<q>—<hi>Sacer eſi locus, extra Mei</hi>—</q> Shall I praiſe you in this? I praiſe you not, to ſay no more then he doth in a gen<g ref="char:EOLhyphen"/>tle reproofe to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans:</hi> Howbeit ye know that our Saviour Chriſt, had a whip for groſſe profaners of the Temple.</p>
+            <p>The beſt uſe we can make of Divine bounty, and
+<pb n="77" facs="tcp:64849:49"/> Evangelicall mercy, is a good life and honeſt converſation in the feare of God, and the duties of Religion. O kiſſe the Son, and bleſſe the God of your Salvation, who tooke of our fleſh, that he might give us of his Spirit, and poure it forth aboun<g ref="char:EOLhyphen"/>dantly upon all fleſh; Men, and Women; Fathers, and Children; Princes, and Nobles; Rulers, and Ser<g ref="char:EOLhyphen"/>vants. <hi>For God is no accepter of Perſons, but in every Na<g ref="char:EOLhyphen"/>tion he that feareth him, and worketh Righteouſneſſe is ac<g ref="char:EOLhyphen"/>cepted of him.</hi> The tenth
+<pb n="78" facs="tcp:64849:50"/> Chapter of the <hi>Acts</hi> of the <hi>Apoſtles.</hi> Without doubt their hearts are of ſtone, and not of fleſh, that do not melt, and diſſolve with a ſenſe of this Kindneſſe. He Deſcends, that we may Aſ<g ref="char:EOLhyphen"/>cend; Aſcend, and Deſcend upon the Sonne of man, Aſ<g ref="char:EOLhyphen"/>cend in Love, and the height of Contemplation: De<g ref="char:EOLhyphen"/>ſcend in Obedience, and the Hurnility of Subjection (as it is ſaid of the Glorious An<g ref="char:EOLhyphen"/>gels in the firſt Chapter of St <hi>Iohn</hi> the Evangeliſt.) If you would learne the man<g ref="char:EOLhyphen"/>ner, and deſire to know the
+<pb n="79" facs="tcp:64849:50"/> wings that bring him to us, they are as the wings of a Dove; <hi>VVhoſe wings are of Gold, and whoſe feathers are of Silver: in argento Huma<g ref="char:EOLhyphen"/>nitas, in auro Divinitas</hi> (ſaith Elegant <hi>Bernard</hi>) by wings of Gold, we underſtand the power of his God-head; by feathers of Silver, the purity of his Man-hood: the Gold, and the Silver, that meer together in the Royall Perſon of our Gra<g ref="char:EOLhyphen"/>cious Mediatour, and moſt Precious Redeemer.</p>
+            <p>When the Seales of the booke in the <hi>Revelation</hi>
+               <pb n="80" facs="tcp:64849:51"/> were opened, there was a voice heard as the noiſe of Thunder, ſaying <hi>Come and ſee:</hi> I have looſed the Seales of the Text, and diſplaid the Treaſures thereof; the Love of God, the Salvation of Chriſt; the Riches of his Grace, the Sweetneſſe of his Peace, and reconciling Merites: Give me leave to round your eares, and to rouſe your Spirits as a Sonne of Thunder, in the ſame Language <hi>Come and ſee,</hi> come and Sing; <hi>O come let us ſing unto the Lord, let us Heartily rejoyce in the ſtrength
+<pb n="81" facs="tcp:64849:51"/> of our Salvation:</hi> With Pſalmes, and Hymnes of Di<g ref="char:EOLhyphen"/>vine praiſe, and Jubilar ex<g ref="char:EOLhyphen"/>ultancies. Who would not adore him that is Magnified by all the powers of Hea<g ref="char:EOLhyphen"/>ven, though he tooke not Angels, but the ſeed of <hi>A<g ref="char:EOLhyphen"/>braham.</hi> Was <hi>Alpha,</hi> ſhall be <hi>Omega;</hi> was the Firſt, ſhall be the Laſt; was the Beginning, ſhall be the End; the End of our Hope, the Conſummation of our Hap<g ref="char:EOLhyphen"/>pyneſſe? Give him the Ho<g ref="char:EOLhyphen"/>nour due unto his Name; the Name of <hi>Ieſus,</hi> the Name of a Saviour; wherein we
+<pb n="82" facs="tcp:64849:52"/> rejoyce, and whereby we Triumph over the greateſt adverſaries: As his Name is, ſo let his Praiſe be Great, and wonderfull; publike and univerſall in all Chur<g ref="char:EOLhyphen"/>ches, and in all places: let his Saints praiſe him, let all his Saints praiſe him with Me<g ref="char:EOLhyphen"/>lody, and with joyfulneſſe. Crying aloud in the words of the <hi>Magnificat, He that is Mighty, hath done great things for us, and Holy is his name:</hi> Sometimes with the Glorious Cherubims in An<g ref="char:EOLhyphen"/>thems, and Antiphonies; <hi>Holy, Holy, Holy Lord God of
+<pb n="83" facs="tcp:64849:52"/> Hoſts, Heaven and Earth are full of the Majeſty of thy Glory.</hi> Sometimes with the bleſſed Elders in Elogies and Doxologies, <hi>Salvation and Honour, VViſdome and Power, be to him that ſits up<g ref="char:EOLhyphen"/>on the Throne, and to the Lamb for ever;</hi> The <hi>Lamb</hi> that came to us in a cloud of fleſh, that all might ſee him; the <hi>Lamb</hi> that ſhall come in the clouds of Hea<g ref="char:EOLhyphen"/>ven, that all may find him: they which have done ill, to their greife; they which have done well, to their comfort, in the Viſions of
+<pb n="84" facs="tcp:64849:53"/> Peace, and the ſweet Frui<g ref="char:EOLhyphen"/>tion of his Beatificall prae<g ref="char:EOLhyphen"/>ſence for ever more. Which the Lord grant, for <hi>Ieſus Chriſt</hi> his ſake, To whom with the Father and the Son, three Perſons, and one God; be Aſcribed all Power, Ma<g ref="char:EOLhyphen"/>jeſty, and Dominion, this day, and for ever.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64849:53"/>
+         </div>
+      </body>
+   </text>
+</TEI>
